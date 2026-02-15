@@ -10,8 +10,9 @@
 - [SF_Gov_Platform](https://github.com/git-raj/SF_Gov_Platform) - Enterprise-grade data governance platform built on Snowflake with a Streamlit UI.
 
 ## Agentic AI & LLM Data Engineering
-- [Agentic_ETL_Gen](https://github.com/git-raj/Agentic_ETL_Gen) - Generates ETL code, data quality tests, and lineage from metadata using LLMs.
 - [SAIF](https://github.com/git-raj/SAIF) - Metadata-driven API ingestion framework with a Streamlit configuration UI.
+- [Agentic_ETL_Gen](https://github.com/git-raj/Agentic_ETL_Gen) - Generates ETL code, data quality tests, and lineage from metadata using LLMs.
+- [WH_Codegen](https://github.com/git-raj/WH_Codegen) - Generates Data Warehouse/Lakehouse code in Snowflake SQL, Snowpark Code or dbt using input Source to Target Mapping excel.
 - [yt_summarizer_app](https://github.com/git-raj/yt_summarizer_app) - Streamlit app for transcribing and summarizing Youtube videos
 - [ai_travel_agent](https://github.com/git-raj/ai_travel_agent) - Crew AI based Agentic AI Travel Agent.
 
