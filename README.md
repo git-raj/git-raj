@@ -8,6 +8,7 @@
 - [DataIntegrityFramework](https://github.com/git-raj/DataIntegrityFramework) - Data quality validation framework to ensure accuracy and consistency.
 - [Snowflake_SecAudit](https://github.com/git-raj/Snowflake_SecAudit) - Streamlit app for auditing Snowflake security, configuration, and best practices.
 - [SF_Gov_Platform](https://github.com/git-raj/SF_Gov_Platform) - Enterprise-grade data governance platform built on Snowflake with a Streamlit UI.
+- [NEHR](https://github.com/git-raj/NEHR) - Open Source Entreprise Health Records System (to address the gap in Nepali healthcare Market)
 
 ## Agentic AI & LLM Data Engineering
 - [SAIF](https://github.com/git-raj/SAIF) - Metadata-driven API ingestion framework with a Streamlit configuration UI.
@@ -34,5 +35,6 @@
 - [R-samples](https://github.com/git-raj/R-samples) - R exploratory samples from classwork
 
 ## ETL, APIs & Data Systems
+- [NEHR](https://github.com/git-raj/NEHR) - Open Source Entreprise Health Records System (to address the gap in Nepali healthcare Market)
 - [microservices](https://github.com/git-raj/microservices) - Simple Flask-based web server API
 - [utilities](https://github.com/git-raj/utilities) - day to day utilities for data engineers
