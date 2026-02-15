@@ -28,7 +28,7 @@
 ## Analytics & ML (R)
 - [R-Machine-Learning--Classification](https://github.com/git-raj/R-Machine-Learning--Classification) - SMS ham/spam classification using various ML Algos
 - [R-sentiment_analysis](https://github.com/git-raj/R-sentiment_analysis) - sentiment analysis using R
-- [NeuralNet-IoT_Lab-bu-assignment](https://github.com/git-raj/NeuralNet-IoT_Lab-bu-assignment) - Neural Network-IOT data- BU assignment- credits to prof. Zlakto
+- [NeuralNet-IoT_Lab](https://github.com/git-raj/NeuralNet-IoT_Lab-bu-assignment) - Neural Network-IOT data
 - [RShiny](https://github.com/git-raj/RShiny) - R Shiny Examples
 - [R-samples](https://github.com/git-raj/R-samples) - R exploratory samples from classwork
 
