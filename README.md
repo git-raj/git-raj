@@ -5,6 +5,7 @@
 ## Highlights
 - [SAIF](https://github.com/git-raj/SAIF) - Metadata-driven API ingestion framework with a Streamlit configuration UI.
 - [Agentic_ETL_Gen](https://github.com/git-raj/Agentic_ETL_Gen) - Generates ETL code, data quality tests, and lineage from metadata using LLMs.
+- [ETL_Accelerated](https://github.com/git-raj/ETL_Accelerated) - A simple visual ETL (Extract, Transform, Load) builder, enabling users to design ETL flows with drag-and-drop components and generate runnable scripts for Python, Spark, Glue, or dbt.
 - [DataIntegrityFramework](https://github.com/git-raj/DataIntegrityFramework) - Data quality validation framework to ensure accuracy and consistency.
 - [Snowflake_SecAudit](https://github.com/git-raj/Snowflake_SecAudit) - Streamlit app for auditing Snowflake security, configuration, and best practices.
 - [SF_Gov_Platform](https://github.com/git-raj/SF_Gov_Platform) - Enterprise-grade data governance platform built on Snowflake with a Streamlit UI.
@@ -14,6 +15,7 @@
 - [SAIF](https://github.com/git-raj/SAIF) - Metadata-driven API ingestion framework with a Streamlit configuration UI.
 - [Agentic_ETL_Gen](https://github.com/git-raj/Agentic_ETL_Gen) - Generates ETL code, data quality tests, and lineage from metadata using LLMs.
 - [WH_Codegen](https://github.com/git-raj/WH_Codegen) - Generates Data Warehouse/Lakehouse code in Snowflake SQL, Snowpark Code or dbt using input Source to Target Mapping excel.
+- [ETL_Accelerated](https://github.com/git-raj/ETL_Accelerated) - A simple visual ETL (Extract, Transform, Load) builder, enabling users to design ETL flows with drag-and-drop components and generate runnable scripts for Python, Spark, Glue, or dbt.
 - [yt_summarizer_app](https://github.com/git-raj/yt_summarizer_app) - Streamlit app for transcribing and summarizing Youtube videos
 - [ai_travel_agent](https://github.com/git-raj/ai_travel_agent) - Crew AI based Agentic AI Travel Agent.
 
