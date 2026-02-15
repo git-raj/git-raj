@@ -13,7 +13,7 @@
 - [Agentic_ETL_Gen](https://github.com/git-raj/Agentic_ETL_Gen) - Generates ETL code, data quality tests, and lineage from metadata using LLMs.
 - [SAIF](https://github.com/git-raj/SAIF) - Metadata-driven API ingestion framework with a Streamlit configuration UI.
 - [yt_summarizer_app](https://github.com/git-raj/yt_summarizer_app) - Streamlit app for transcribing and summarizing Youtube videos
-- [ai_travel_agent](https://github.com/git-raj/ai_travel_agent) - No description provided.
+- [ai_travel_agent](https://github.com/git-raj/ai_travel_agent) - Crew AI based Agentic AI Travel Agent.
 
 ## Data Governance, Security & Platform Engineering (Snowflake)
 - [SF_Gov_Platform](https://github.com/git-raj/SF_Gov_Platform) - Enterprise-grade data governance platform built on Snowflake with a Streamlit UI.
@@ -23,7 +23,7 @@
 - [DataIntegrityFramework](https://github.com/git-raj/DataIntegrityFramework) - Data quality validation framework to ensure accuracy and consistency.
 
 ## Synthetic Data
-- [SynthGen](https://github.com/git-raj/SynthGen) - Synthetic data generator simplified
+- [SynthGen](https://github.com/git-raj/SynthGen) - Synthetic data generator that mimics your sample data profile simplified
 
 ## Analytics & ML (R)
 - [R-Machine-Learning--Classification](https://github.com/git-raj/R-Machine-Learning--Classification) - SMS ham/spam classification using various ML Algos
